@@ -1,2 +1,2 @@
-rm -r /usr/bin/numlist/
+rm -r /usr/bin/numlist_files/
 rm /usr/bin/numlist
