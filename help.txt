@@ -1,0 +1,24 @@
+
+To add a number to the list just type it.
+
+Commands to run on the list:
+    
+    ls - print list
+    o - print ordered list
+
+    rm - remove number from list e.g. "rm 100"
+    clear - removes all numbers from the list
+
+    ra - print range
+    ma - print mean
+
+    a - add all numbers in list
+    m - multiply all numbers in list
+
+    s - print smallest number in list
+    l - print largest number in list
+    
+    im - import file with a number on each line e.g. "im Lists/list.txt"
+    ex - export list e.g. "ex Lists/list" saves a list.txt file in Lists
+
+    exit - exit numlist
