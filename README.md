@@ -1,4 +1,5 @@
 # numlist
+I RECOMMEND USING THE RUST VERSION AT https://github.com/Sykotes/numlist-rust
 A program I made to learn a bit of python which lets you do stuff with a list of numbers!
 
 I have provided scripts to install and uninstall on linux 
